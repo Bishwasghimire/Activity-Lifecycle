@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+package com.example.twoactivitieslifecycle;
 
 import android.content.Context;
 
