@@ -1,4 +1,4 @@
-package com.example.twoactivities;
+package com.example.twoactivitylifecyclehomework;
 
 import org.junit.Test;
 
